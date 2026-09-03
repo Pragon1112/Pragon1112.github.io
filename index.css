@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+h1{
+    font-size: 8rem;
+    margin: 10px;
+}
+label{
+    font-size: 2em;
+}
+input[type="checkbox"]{
+    transform: scale(3);
+    margin: 20px;
+}
+.del{
+    border: none;
+    background-color: rgb(0, 0, 0);
+    padding: 0px;
+    margin: 10px;
+}
+button{
+    background-color: grey;
+    color: aliceblue;
+    font-size: 2em;
+}
+button:hover{
+    background-color: rgb(97, 97, 97);
+    color: aliceblue;
+}
+button:active{
+    font-size: 2.5rem;
+}
+#newTask{
+    font-size: 3rem;
+    padding: 10px;
+    padding-left: 12.5%;
+    padding-right: 12.5%;
+}
+#newTask:hover{
+    font-size:3rem; 
+}
