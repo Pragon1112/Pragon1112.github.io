@@ -1,2 +1,2 @@
-# mysite.github.io
+# slay.github.io
 my site
